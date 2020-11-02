@@ -3,11 +3,11 @@
 <table>
   <tr>
     <th>프로젝트 명</th>
-    <td colspan="3">배달의 요기요</td>
+    <td>배달의 요기요</td>
   </tr>
   <tr>
     <th>개발 기간</th>
-    <td colspan="3">2020.05.12 ~ 2020.05.26</td>
+    <td>2020.05.12 ~ 2020.05.26</td>
   </tr>  
   <tr>
     <th>참여 인원</th>
@@ -15,7 +15,7 @@
   </tr> 
   <tr>
     <th>개발 환경</th>
-    <td colspan="3">windows10</td>
+    <td>windows10</td>
   </tr>  
   <tr>
     <th>사용 도구</th>
