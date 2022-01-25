@@ -1,4 +1,4 @@
-# firstProject
+# 나의 첫 자바 프로젝트
 
 <table>
   <tr>
